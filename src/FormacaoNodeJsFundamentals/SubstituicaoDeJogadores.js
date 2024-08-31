@@ -15,6 +15,6 @@ const novoJogador = gets();
 jogadores[indiceSubstituir - 1] = novoJogador;
 
 //TODO: Solicite a Saída dos Nomes dos Jogadores:
-for (let i = 0; i <= jogadores.length; i++) {
+for (let i = 0; i < jogadores.length; i++) {
     print(`${i + 1}. ${jogadores[i]}`);
 }
