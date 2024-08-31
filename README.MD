@@ -4,7 +4,7 @@
 Utilize o comando abaixo para adicionar a lib `prompt-sync` que é necessária para a entrada de dados.
 ### `npm install prompt-sync`
 
-Os desafios de códigos são para os seguintes cursos:
+Os desafios de códigos são para os seguintes cursos (existe um markdown com o enunciado para cada arquivo javascript):
 
 [Formação Angular Developer](https://web.dio.me/track/formacao-angular-developer/)
 
