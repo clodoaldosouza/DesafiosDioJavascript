@@ -1,5 +1,5 @@
 
-# Desafios de Código DIO.ME
+# Desafios de Código DIO.ME em JavaScript
 
 Utilize o comando abaixo para adicionar a lib `prompt-sync` que é necessária para a entrada de dados.
 ### `npm install prompt-sync`
