@@ -7,7 +7,7 @@ Faça um programa que calcule e imprima o salário a ser transferido para um fun
 primeiro receba o valor do salário bruto (`valorSalario`) e adicional dos benefícios (`valorBeneficios`). Por fim, o
 salário a ser transferido é calculado da seguinte maneira:
 
-`(valorSalario - valorImpostos) + valorBeneficios`
+`(valorSalario - valorImpostos) + valorBeneficios`
 
 Para calcular o `valorImpostos`, seguem as aliquotas (baseadas no valor do salário bruto):
 
@@ -25,7 +25,7 @@ Saída
 Para cada conjunto de Entradas (`valorSalario` e `valorBeneficios`), deverá ser calculada uma Saída. Para isso, basta
 imprimir uma linha com o resultado da seguinte fórmula:
 
-**`saida = (valorSalario - valorImpostos) + valorBeneficios`**
+**`saida = (valorSalario - valorImpostos) + valorBeneficios`**
 
 Use o exemplo abaixo para entender melhor a formatação das Entradas e Saída.
 

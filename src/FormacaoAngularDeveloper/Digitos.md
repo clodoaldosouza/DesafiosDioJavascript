@@ -3,7 +3,7 @@ Desafios Finais JavaScript - Formação Angular
 3 / 3 - Dígitos
 ---------------
 
-Dados dois números inteiros, A e B, quantos dígitos tem nm ?
+Dados dois números inteiros, A e B, quantos dígitos tem nm ?
 
 Exemplos:
 
@@ -14,7 +14,7 @@ Exemplos:
 Entrada
 -------
 
-A primeira linha tem um número inteiro **E**, representando a quantidade de casos de teste. As **E** linhas seguintes contém dois números inteiros **A** e **B** (1 <= **A**, **B** <= 100).
+A primeira linha tem um número inteiro **E**, representando a quantidade de casos de teste. As **E** linhas seguintes contém dois números inteiros **A** e **B** (1 <= **A**, **B** <= 100).
 
 Saída
 -----
