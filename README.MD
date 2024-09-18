@@ -18,4 +18,6 @@ Os desafios de códigos são para os seguintes cursos (existe um markdown com o 
 
 [Formação TypeScript Fullstack Developer](https://web.dio.me/track/formacao-typescript-fullstack-developer/)
 
+[Formação Ri Happy - Front-end do Zero](https://web.dio.me/track/coding-future-front-end-do-zero)
+
 **Bons estudos!**
